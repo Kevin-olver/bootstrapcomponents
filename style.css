@@ -1,0 +1,44 @@
+h1 {
+    font-size: 48px;
+   text-align: center;
+}
+img {
+   display: block;
+   margin: auto;
+   height: 400px;
+   width: 500px;
+}
+p {
+   text-align: center;
+}
+.ps1 {
+background-color: blue;
+color:aquamarine;
+}
+.ps2 {
+   background-color:rgb(163, 48, 48);
+   color:darkgreen;
+}
+.ps3 {
+   background-color:orange;
+   color:red;
+}
+.ps4 {
+   background-color:yellow;
+   color:rgb(10, 233, 140);
+}
+.ps5 {
+   background-color:pink;
+   color:purple;
+}
+.Home {
+   color:brown;
+   background-color:beige;
+
+}
+.col-md-4{
+    text-align: center;
+}
+.col-md-6{
+    text-align: center;
+}
