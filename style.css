@@ -11,14 +11,16 @@ img {
 p {
    text-align: center;
 }
+
 .ps1 {
-background-color: blue;
-color:aquamarine;
-}
-.ps2 {
    background-color:rgb(163, 48, 48);
    color:darkgreen;
 }
+.ps2 {
+background-color: blue;
+color:aquamarine;
+}
+
 .ps3 {
    background-color:orange;
    color:red;
@@ -41,4 +43,11 @@ color:aquamarine;
 }
 .col-md-6{
     text-align: center;
+}
+footer{
+   margin-bottom: 0px;
+   margin-top :300px; 
+   background-color: aquamarine;
+   text-align: center;
+   width: 100%;
 }
